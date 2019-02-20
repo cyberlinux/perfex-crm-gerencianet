@@ -9,4 +9,4 @@ composer require gerencianet/gerencianet-sdk-php
 
 # Desenvolvedor
 Allan Lima
-<contato@allanlima.com
+<contato@allanlima.com>
